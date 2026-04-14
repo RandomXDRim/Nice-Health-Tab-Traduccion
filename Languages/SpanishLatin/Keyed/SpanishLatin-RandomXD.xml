@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NiceHealthTabSettingsCategory>Nice Health Tab</NiceHealthTabSettingsCategory>
+  
+  <ExtraOverlayEnabled>Activar capas adicionales (los huesos pueden superponerse visualmente a los órganos)</ExtraOverlayEnabled>
+  <AlwaysVanillaEyes>Ojos del juego original (Vainilla)</AlwaysVanillaEyes>
+  <AllowKidDollVariant>Permitir variante de muñeco infantil</AllowKidDollVariant>
+  <UsingVanillaListRowColors>Usar colores de vainilla para partes del cuerpo en la lista</UsingVanillaListRowColors>
+  
+  <NHTCommonTab>General</NHTCommonTab>
+  <NHTBodyPartsTab>Partes del cuerpo</NHTBodyPartsTab>
+  
+  <AssignDefaultBodyParts>Asignar partes apropiadas de otro tipo de cuerpo</AssignDefaultBodyParts>
+  <DefaultBodyParts>Partes del cuerpo por defecto:</DefaultBodyParts>
+  <BodyPartsSuff>partes del cuerpo:</BodyPartsSuff>
+  
+  <ResetAll>Restablecer todo</ResetAll>
+  <Reset>Restablecer</Reset>
+  <AutoAssign>Asignación automática</AutoAssign>
+</LanguageData>
