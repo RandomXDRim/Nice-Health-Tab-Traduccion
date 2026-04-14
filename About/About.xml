@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Nice Health Tab (Español Latino)</name>
+	<author>RandomXD</author>
+	<packageId>Randomxd.NiceHealthTab.esl</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Traducción al español latino para el mod Nice Health Tab. \nRequiere el mod original cargado arriba de este.</description>
+	<modDependencies>
+		<li>
+			<packageId>Andromeda.NiceHealthTab</packageId>
+			<displayName>Nice Health Tab</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3328729902</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Andromeda.NiceHealthTab</li>
+	</loadAfter>
+</ModMetaData>
